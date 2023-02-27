@@ -52,55 +52,55 @@ async function fetchJobs () {
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
         location: "Nepal",
         created_at: "Thu 09 Feb 2023"
-    }, , {
+    }, {
         id: "11124qwererwer212321sdfwerwe214234",
         title: "Software Tester",
         company: "Google",
